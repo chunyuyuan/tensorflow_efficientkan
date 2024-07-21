@@ -5,6 +5,11 @@ The original implementation of KAN is available [here]([https://github.com/KindX
 
 This implemention is to apply tensorflow to re-cover the pytorch version of Efficient kan.  The experiemnt on mnist can also be 97%, which has similar performance with original pytorch version. 
 
+** run mnist example **
+```
+python mnist.py
+```
+
 ** reference **
 
 1. chatgpt
