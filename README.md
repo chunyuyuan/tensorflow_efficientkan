@@ -13,5 +13,5 @@ python mnist.py
 ** reference **
 
 1. chatgpt
-2. [fficientkan](https://github.com/Blealtan/efficient-kan).
+2. [efficientkan](https://github.com/Blealtan/efficient-kan).
 3. [tfkan](https://github.com/ZPZhou-lab/tfkan).
