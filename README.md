@@ -5,8 +5,8 @@ The original implementation of KAN is available [here]([https://github.com/KindX
 
 This implemention is to apply tensorflow to re-cover the pytorch version of Efficient kan.  The experiemnt on mnist can also be 97%, which has similar performance with original pytorch version. 
 
-# reference
+** reference **
 
 [1] chatgpt
-[2][Efficientkan]([https://github.com/KindXiaoming/pykan](https://github.com/Blealtan/efficient-kan)).
-[2][tfkan]([https://github.com/ZPZhou-lab/tfkan](https://github.com/ZPZhou-lab/tfkan)).
+[2][Efficientkan](https://github.com/Blealtan/efficient-kan).
+[2][tfkan](https://github.com/ZPZhou-lab/tfkan).
