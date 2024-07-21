@@ -7,6 +7,6 @@ This implemention is to apply tensorflow to re-cover the pytorch version of Effi
 
 ** reference **
 
-*[1] chatgpt
-*[2][Efficientkan](https://github.com/Blealtan/efficient-kan).
-*[3][tfkan](https://github.com/ZPZhou-lab/tfkan).
+1. chatgpt
+2. [fficientkan](https://github.com/Blealtan/efficient-kan).
+3. [tfkan](https://github.com/ZPZhou-lab/tfkan).
